@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "EUC Pilots",
   description: "This is your captain speaking.",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/img/eucpilots2.png' }]],
   sitemap: {
     hostname: 'https://eucpilots.github.io/'
   },
@@ -21,7 +21,7 @@ export default defineConfig({
       },
     ],
 
-    logo: '/img/eucpilots.jpeg',
+    logo: '/img/eucpilots2.png',
     sidebar: [
     ],
 
