@@ -15,7 +15,8 @@ export default defineConfig({
       { text: 'Projects',
         items: [
           { text: 'Evergreen', link: 'https://eucpilots.github.io/evergreen-docs/' },
-          { text: 'VcRedist', link: 'https://vcredist.com/' }
+          { text: 'VcRedist', link: 'https://vcredist.com/' },
+          { text: 'stealthpuppy', link: 'https://stealthpuppy.com/' }
         ]
       },
     ],
@@ -25,6 +26,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
+      { icon: 'github', link: 'https://github.com/eucpilots/evergreen' },
+      { icon: 'bluesky', link: 'https://bsky.app/profile/stealthpuppy.com' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/aaronedwardparker/' },
     ],
 
     footer: {

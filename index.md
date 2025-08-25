@@ -26,4 +26,8 @@ features:
     details: PowerShell module for lifecycle management of the Microsoft Visual C++ Redistributables.
     icon:
       src: /img/vcredist256.png
+  - title: stealthpuppy
+    details: Articles on end user computing, virtualisation, modern device management, enterprise mobility, & automation.
+    icon:
+      src: /img/stealthpuppy.png
 ---
