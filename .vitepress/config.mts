@@ -11,7 +11,6 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'About', link: '/about' },
       { text: 'Projects',
         items: [
           { text: 'Evergreen', link: 'https://eucpilots.github.io/evergreen-docs/' },
@@ -26,7 +25,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/eucpilots/evergreen' },
+      { icon: 'github', link: 'https://github.com/eucpilots/' },
       { icon: 'bluesky', link: 'https://bsky.app/profile/stealthpuppy.com' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/aaronedwardparker/' },
     ],
