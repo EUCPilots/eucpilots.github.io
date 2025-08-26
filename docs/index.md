@@ -7,7 +7,7 @@ hero:
   text: "This is your captain speaking."
   tagline: End-user computing projects brought to you by stealthpuppy.
   image:
-    src: '/img/eucpilots2.png'
+    src: './img/eucpilots2.png'
     alt: 'EUC Pilots'
   # actions:
   #   - theme: brand
@@ -21,13 +21,13 @@ features:
   - title: Evergreen
     details: Enterprise automation for Windows apps and image management with the latest version and downloads for common Windows applications via PowerShell.
     icon:
-      src: /img/evergreenbulb.png
+      src: ./img/evergreenbulb.png
   - title: VcRedist
     details: PowerShell module for lifecycle management of the Microsoft Visual C++ Redistributables.
     icon:
-      src: /img/vcredist256.png
+      src: ./img/vcredist256.png
   - title: stealthpuppy
     details: Articles on end user computing, virtualisation, modern device management, enterprise mobility, & automation.
     icon:
-      src: /img/stealthpuppy.png
+      src: ./img/stealthpuppy.png
 ---
