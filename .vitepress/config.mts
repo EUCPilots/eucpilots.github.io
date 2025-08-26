@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: './docs',
+  srcDir: 'docs',
   title: "EUC Pilots",
   description: "This is your captain speaking.",
   head: [['link', { rel: 'icon', href: '/eucpilots2.png' }]],
