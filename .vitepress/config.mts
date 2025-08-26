@@ -2,14 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  srcDir: './docs',
   title: "EUC Pilots",
   description: "This is your captain speaking.",
-  head: [['link', { rel: 'icon', href: '/img/eucpilots2.png' }]],
+  head: [['link', { rel: 'icon', href: '/eucpilots2.png' }]],
   sitemap: {
     hostname: 'https://eucpilots.github.io/'
   },
   cleanUrls: true,
-  ignoreDeadLinks: true,
+  // ignoreDeadLinks: true,
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
