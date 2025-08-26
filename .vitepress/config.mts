@@ -8,6 +8,9 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://eucpilots.github.io/'
   },
+  cleanUrls: true,
+  ignoreDeadLinks: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
