@@ -15,11 +15,18 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Projects',
+      { text: 'stealthpuppy.com', link: 'https://stealthpuppy.com/' },
+      { text: 'Evergreen', link: 'https://eucpilots.github.io/evergreen-docs/' },
+      { text: 'VcRedist', link: 'https://vcredist.com/' },
+      { text: 'Defaults', link: 'https://stealthpuppy.com/defaults' },
+      { text: 'Nerdio Manager', link: 'https://github.com/aaronparker/nerdio-actions/' },
+      { text: 'Evergreen App Tracker', link: 'https://stealthpuppy.com/apptracker' },
+      { text: 'More',
         items: [
-          { text: 'Evergreen', link: 'https://eucpilots.github.io/evergreen-docs/' },
-          { text: 'VcRedist', link: 'https://vcredist.com/' },
-          { text: 'stealthpuppy', link: 'https://stealthpuppy.com/' }
+          { text: 'PSPackgeFactory', link: 'https://stealthpuppy.com/packagefactory' },
+          { text: 'Microsoft 365 Apps packager', link: 'https://github.com/aaronparker/m365apps' },
+          { text: 'Intune Baseline', link: 'https://github.com/aaronparker/intune-baseline' },
+          { text: 'Azure Virtual Desktop', link: 'https://github.com/aaronparker/azurevirtualdesktop' },
         ]
       },
     ],
