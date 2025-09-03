@@ -28,7 +28,7 @@ features:
     icon:
       src: /img/defaults.png
   - title: Evergreen App Tracker
-    details: Uses Evergreen to track the latest version and download URLs for supported applications. Updated every 12 hours..
+    details: Uses Evergreen to track the latest version and download URLs for supported applications. Updated every 12 hours.
     icon:
       src: /img/evergreenbulb.png
   - title: PSPackageFactory
