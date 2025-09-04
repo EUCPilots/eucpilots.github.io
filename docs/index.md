@@ -39,7 +39,7 @@ features:
     details: PowerShell script and workflow for creating and importing a Win32 package into Intune for the Microsoft 365 Apps.
     icon:
       src: /img/m365.svg
-  - title: Remediations
+  - title: Intune Remediations
     details: A library of PowerShell scripts for Microsoft Intune Remeditations.
     icon:
       src: /img/intune.svg

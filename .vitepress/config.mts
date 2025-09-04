@@ -23,10 +23,11 @@ export default defineConfig({
       { text: 'Evergreen App Tracker', link: 'https://stealthpuppy.com/apptracker' },
       { text: 'More',
         items: [
-          { text: 'PSPackgeFactory', link: 'https://stealthpuppy.com/packagefactory' },
+          { text: 'PSPackageFactory', link: 'https://stealthpuppy.com/packagefactory' },
           { text: 'Microsoft 365 Apps packager', link: 'https://github.com/aaronparker/m365apps' },
+          { text: 'Intune Remediations', link: 'https://github.com/aaronparker/remediations' },
           { text: 'Intune Baseline', link: 'https://github.com/aaronparker/intune-baseline' },
-          { text: 'Azure Virtual Desktop', link: 'https://github.com/aaronparker/azurevirtualdesktop' },
+          { text: 'Azure Virtual Desktop', link: 'https://github.com/aaronparker/azurevirtualdesktop' }
         ]
       },
     ],
@@ -42,7 +43,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'A stealthpuppy project.',
+      message: 'A stealthpuppy project. <a target="_blank" href="https://icons8.com/icon/tI2IB1EJFmdP/greentech">Greentech</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>. <a target="_blank" href="https://icons8.com/icon/gc3EFfPcJEXt/deployment">Deployment</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>',
       copyright: 'Copyright &copy; 2025 Aaron Parker.'
     },
   }
