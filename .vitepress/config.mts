@@ -32,7 +32,7 @@ export default defineConfig({
       },
     ],
 
-    logo: '/img/eucpilots2.png',
+    logo: '/img/eucpilot.png',
     sidebar: [
     ],
 

@@ -7,7 +7,7 @@ hero:
   text: "This is your captain speaking."
   tagline: End-user computing projects brought to you by stealthpuppy.
   image:
-    src: '/img/eucpilots2.png'
+    src: '/img/eucpilot.png'
     alt: 'EUC Pilots'
 
 features:

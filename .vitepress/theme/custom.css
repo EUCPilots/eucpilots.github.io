@@ -7,10 +7,10 @@
   /* --vp-home-hero-name-background: -webkit-linear-gradient(135deg, #bd34fe, #009485); */
 }
 
-.VPHero .VPImage {
+/* .VPHero .VPImage {
   filter: drop-shadow(-2px 4px 6px rgba(0, 0, 0, 0.2));
   padding: 18px;
-}
+} */
 
 @media (min-width: 640px) {
   :root {
