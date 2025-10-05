@@ -5,7 +5,7 @@ export default defineConfig({
   srcDir: './docs',
   title: "EUC Pilots",
   description: "This is your captain speaking.",
-  head: [['link', { rel: 'icon', href: '/eucpilots2.png' }]],
+  head: [['link', { rel: 'icon', href: '/eucpilot-headshot.png' }]],
   sitemap: {
     hostname: 'https://eucpilots.github.io/'
   },
