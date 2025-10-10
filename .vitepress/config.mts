@@ -7,7 +7,7 @@ export default defineConfig({
   description: "This is your captain speaking.",
   head: [['link', { rel: 'icon', href: '/eucpilot-headshot2.png' }]],
   sitemap: {
-    hostname: 'https://eucpilots.github.io/'
+    hostname: 'https://eucpilots.com/'
   },
   cleanUrls: true,
   // ignoreDeadLinks: true,
@@ -15,21 +15,18 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'stealthpuppy.com', link: 'https://stealthpuppy.com/' },
-      { text: 'Evergreen', link: 'https://eucpilots.github.io/evergreen-docs/' },
-      { text: 'VcRedist', link: 'https://vcredist.com/' },
-      { text: 'Defaults', link: 'https://stealthpuppy.com/defaults' },
-      { text: 'Nerdio Manager', link: 'https://github.com/aaronparker/nerdio-actions/' },
-      { text: 'Evergreen App Tracker', link: 'https://stealthpuppy.com/apptracker' },
-      { text: 'More',
-        items: [
-          { text: 'PSPackageFactory', link: 'https://stealthpuppy.com/packagefactory' },
-          { text: 'Microsoft 365 Apps packager', link: 'https://github.com/aaronparker/m365apps' },
-          { text: 'Intune Remediations', link: 'https://github.com/aaronparker/remediations' },
-          { text: 'Intune Baseline', link: 'https://github.com/aaronparker/intune-baseline' },
-          { text: 'Azure Virtual Desktop', link: 'https://github.com/aaronparker/azurevirtualdesktop' }
-        ]
-      },
+      { text: 'stealthpuppy.com', link: 'https://stealthpuppy.com' }
+      // { text: 'Evergreen App Tracker', link: 'https://stealthpuppy.com/apptracker/' },
+      // { text: 'Nerdio Manager', link: 'https://github.com/aaronparker/nerdio-actions/' },
+      // { text: 'PSPackageFactory', link: 'https://stealthpuppy.com/packagefactory' },
+      // { text: 'Microsoft 365 Apps packager', link: 'https://github.com/aaronparker/m365apps' },
+      // { text: 'Intune Remediations', link: 'https://github.com/aaronparker/remediations' },
+      // { text: 'Intune Baseline', link: 'https://github.com/aaronparker/intune-baseline' },
+      // { text: 'Azure Virtual Desktop', link: 'https://github.com/aaronparker/azurevirtualdesktop' }
+      // { text: 'More',
+      //    items: [
+      //    ]
+      // },
     ],
 
     logo: '/img/eucpilot.png',
