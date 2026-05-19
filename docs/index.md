@@ -13,29 +13,34 @@ hero:
 features:
   - title: stealthpuppy.com
     details: Articles on end user computing, virtualisation, modern device management, enterprise mobility, & automation.
-    link: https://stealthpuppy.com
+    link: 'https://stealthpuppy.com'
     icon:
       src: /img/stealthpuppy.png
   - title: Evergreen
     details: Enterprise automation for Windows apps & image management with the latest version & downloads for common Windows apps via PowerShell.
-    link: https://eucpilots.com/evergreen-docs/
+    link: 'https://eucpilots.com/evergreen/'
+    icon:
+      src: /img/evergreenbulb.png
+  - title: Evergreen Web Workbench
+    details: A web-based version of the Evergreen desktop Workbench. Tracks the latest version and download URLs for all applications supported by Evergreen. Updated every 24 hours.
+    link: 'https://eucpilots.com/workbench/'
+    icon:
+      src: /img/evergreenbulb.png
+  - title: Evergreen Desktop Workbench
+    details: EvergreenUI is a PowerShell module providing a GUI for Evergreen via the Evergreen Workbench desktop application. Simplifies browsing and downloading application versions. Supports Windows only.
+    link: 'https://eucpilots.com/evergreen/workbench/'
     icon:
       src: /img/evergreenbulb.png
   - title: VcRedist
     details: PowerShell module for lifecycle management of the Microsoft Visual C++ Redistributables.
-    link: https://vcredist.com/
+    link: 'https://vcredist.com/'
     icon:
       src: /img/vcredist256.png
   - title: Windows Enterprise Defaults
     details: Make Windows enterprise-ready. Improve end-user experience with enterprise-ready, streamlined Windows PCs and images.
-    link: https://stealthpuppy.com/defaults/
+    link: 'https://stealthpuppy.com/defaults/'
     icon:
       src: /img/defaults.png
-  - title: Evergreen App Tracker
-    details: Uses Evergreen to track the latest version and download URLs for supported applications. Updated every 12 hours.
-    link: 'https://stealthpuppy.com/apptracker/'
-    icon:
-      src: /img/evergreenbulb.png
   - title: PSPackageFactory
     details: A packaging factory for Microsoft Intune using Evergreen, VcRedist, and IntuneWin32App.
     link: 'https://stealthpuppy.com/packagefactory'
@@ -48,17 +53,17 @@ features:
       src: /img/m365.svg
   - title: Intune Remediations
     details: A library of PowerShell scripts for Microsoft Intune Remediations.
-    link: https://github.com/aaronparker/remediations/
+    link: 'https://github.com/aaronparker/remediations/'
     icon:
       src: /img/intune.svg
   - title: Nerdio Manager
     details: A collection of scripts and tools to use with Nerdio Manager for Enterprise and Nerdio Manager for MSP.
-    link: https://github.com/aaronparker/nerdio-actions/
+    link: 'https://github.com/aaronparker/nerdio-actions/'
     icon:
       src: /img/nerdio.png
   - title: Intune Baseline
     details: A well tested set of configuration profiles, built for user experience, for Microsoft Intune.
-    link: https://github.com/aaronparker/intune-baseline/
+    link: 'https://github.com/aaronparker/intune-baseline/'
     icon:
       src: /img/intune.svg
   - title: Azure Virtual Desktop

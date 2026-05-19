@@ -16,7 +16,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'stealthpuppy.com', link: 'https://stealthpuppy.com' }
-      // { text: 'Evergreen App Tracker', link: 'https://stealthpuppy.com/apptracker/' },
+      // { text: 'Evergreen Workbench', link: 'https://eucpilots.com/workbench/' },
       // { text: 'Nerdio Manager', link: 'https://github.com/aaronparker/nerdio-actions/' },
       // { text: 'PSPackageFactory', link: 'https://stealthpuppy.com/packagefactory' },
       // { text: 'Microsoft 365 Apps packager', link: 'https://github.com/aaronparker/m365apps' },
